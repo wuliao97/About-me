@@ -7,4 +7,4 @@
 <!--[![wuliao97's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuliao97&show_icons=true&title_color=48b0d5&icon_color=48b0d5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuliao97&layout=compact&theme=transparent&title_color=48b0d5&icon_color=48b0d5)](https://github.com/anuraghazra/github-readme-stats)  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuliao97&layout=compact&title_color=48b0d5&icon_color=48b0d5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Trophys](https://github-profile-trophy.vercel.app/?username=wuliao97&theme=transparent&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophys](https://github-profile-trophy.vercel.app/?username=wuliao97&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
