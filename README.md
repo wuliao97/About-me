@@ -5,3 +5,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuliao97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=wuliao97&repo=homebridge-switchbot-for-mac)
